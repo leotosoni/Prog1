@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1623634684 source:c:\users\sabri\onedrive\documentos\programacion\foodme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621962642 source:c:\users\sabri\onedrive\documentos\programacion\foodme\grafica.c
+
+1622098432 source:c:\users\sabri\onedrive\documentos\programacion\foodme\utiles.c
+	<windows.h>
+
